@@ -3,6 +3,6 @@
 
 -Lets start with the various libraries you need to import in the python work
 
--mathplotlib 
--numpy
--pandas
+- mathplotlib 
+- numpy
+- pandas
